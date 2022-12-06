@@ -157,7 +157,7 @@ section {
 }
 .grid-item .content h3 {
   color: #ddd;
-  font-size: clamp(1.4rem, 2.4vw, 2.4rem);
+  font-size: clamp(1.4rem, 3.5vw, 3rem);
   grid-row: 2;
   justify-self: start;
   align-self: center;
@@ -183,7 +183,6 @@ section {
   }
   section .grid-item {
     width: 280px;
-    height: 220px;
   }
   section .grid-item .content {
     grid-template-columns: repeat(2, 1fr);
@@ -220,20 +219,24 @@ section {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 1em 0;
+    padding: 1em 0.3em;
+  }
+  section .grid-item .wrapper .text-wrap {
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    text-align: center;
   }
   section .grid-item .wrapper img {
     margin-bottom: 1.5em;
     width: 100px;
     height: 100px;
-    align-self: flex-start;
-    margin-left: 1em;
+    align-self: center;
   }
   .grid-item:first-child {
     grid-row: 1/3;
     justify-content: space-between;
     max-width: 260px;
-    min-height: 471px;
   }
   .grid-item .wrapper .text-wrap {
     padding: 0;
