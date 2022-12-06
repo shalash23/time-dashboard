@@ -14,6 +14,9 @@ a {
   color: hsl(235deg, 45%, 61%);
   font-size: 1rem;
 }
+a:hover {
+  color: rgba(236, 232, 232, 0.3);
+}
 
 .active {
   color: rgba(255, 255, 255, 0.8);
@@ -143,6 +146,9 @@ section {
   position: relative;
   justify-items: start;
   justify-content: space-between;
+}
+.grid-item .content:hover {
+  background-color: hsl(246deg, 80%, 60%);
 }
 .grid-item .content h2 {
   color: white;
