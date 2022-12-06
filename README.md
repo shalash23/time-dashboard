@@ -62,7 +62,7 @@ Learning GSAP more. Was very interesting to use this library.
 
 ## Author
 
-- Website - [https://github.com/shalash23](https://www.your-site.com)
-- Frontend Mentor - [@shalash](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://github.com/shalash23](https://github.com/shalash23)
+- Frontend Mentor - [@shalash23](https://www.frontendmentor.io/profile/shalash23)
 
 
