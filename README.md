@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/shalash23/time-dashboard](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/shalash23/time-dashboard]([https://github.com/shalash23/time-dashboard)
+- Live Site URL: [website](https://wondrous-chimera-102a79.netlify.app/)
 
 ## My process
 
